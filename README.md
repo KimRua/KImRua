@@ -7,6 +7,7 @@
 - 📫 연락 방법: rua.kim.04@gmail.com
 - ⚡ 재밌는 사실: 7년 간 학생 축구선수였습니다!
 
+
 ### 🛠 기술 스택
 
 - **언어**: Python, JavaScript, C#
