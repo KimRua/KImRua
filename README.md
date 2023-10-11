@@ -4,25 +4,23 @@
   <img src="https://komarev.com/ghpvc/?username=KimRua&label=Profile%20views&color=0e75b6&style=flat" alt="KimRua" /> 
 </p>
 
-- 🔭 현재 저는 [회사명]에서 [직무]로 일하고 있습니다.
-- 🌱 현재 [기술/언어]를 공부하고 있습니다.
-- 👯 다른 개발자들과 [프로젝트/아이디어]를 함께하고 싶습니다.
-- 🤔 [기술/주제]에 대한 도움을 구하고 있습니다.
-- 💬 저에게 [주제/관심사]에 대해 물어보세요!
-- 📫 연락 방법: [이메일]
-- 😄 대명사: [예: 그/그녀/그들]
-- ⚡ 재밌는 사실: [당신에 관한 재밌는 사실]
+- 🔭 현재 저는 우리은행에서 디지털/IT 직무로 일하고 있습니다.
+- 🌱 현재 AWS를 공부하고 있습니다.
+- 👯 다른 개발자들과 파이썬 오픈소스 라이브러리 프로젝트를 함께하고 싶습니다.
+- 💬 저에게 파이썬-플라스크 웹 개발에 대해 물어보세요!
+- 📫 연락 방법: rua.kim.04@gmail.com
+- ⚡ 재밌는 사실: 7년 간 학생 축구선수였습니다!
 
 ### 🛠 기술 스택
 
-- **언어**: [예: JavaScript, TypeScript, Python]
-- **프레임워크**: [예: React, Vue, Angular, Node.js]
-- **데이터베이스**: [예: MySQL, MongoDB, PostgreSQL]
-- **도구**: [예: Git, Docker, Jenkins]
+- **언어**: Python, JavaScript, C#
+- **프레임워크**: Flask, Jquery, React, Node.js
+- **데이터베이스**: MySQL, Oracle
+- **도구**: Git, Docker
 
 ### 📊 GitHub 통계
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimRua&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📞 연락처
 
