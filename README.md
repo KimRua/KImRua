@@ -9,7 +9,7 @@
 
 ### 🛠 기술 스택
 
-- **언어**: Python, JavaScript, C#
+- **언어**: Python, JavaScript, C#, TypeScript
 - **프레임워크**: Flask, Jquery, React, Node.js
 - **데이터베이스**: MySQL, Oracle
 - **도구**: Git, Docker, Unity
