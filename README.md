@@ -1,16 +1,15 @@
-### 안녕하세요, KimRua입니다! 👋
+### 안녕하세요, 김겸입니다! 👋
 
-- 🔭 현재 저는 [우리은행](https://www.wooribank.com/ "우리은행 홈페이지")에서 디지털/IT 직무로 일하고 있습니다.
-- 🌱 현재 AWS를 공부하고 있습니다.
-- 👯 다른 개발자들과 파이썬 오픈소스 라이브러리 프로젝트를 함께하고 싶습니다.
-- 💬 저에게 파이썬-플라스크 웹 개발에 대해 물어보세요!
-- 📫 연락 방법: rua.kim.04@gmail.com
+- 🔭 현재 저는 [우리은행](https://www.wooribank.com/ "우리은행 홈페이지")에서 디지털금융 직군으로 일하고 있습니다.
+- 👯 다른 개발자, 기획자들과 함께 창업을 하고 싶습니다.
+- 💬 저에게 Flask 웹 개발, OpenAI API에 대해 물어보세요!
+- 📫 연락 방법: rua.kim.04@gmail.com / rua.kim.04@wooribank.com
 - ⚡ 재밌는 사실: 7년 간 학생 축구선수였습니다!
 
 ### 🛠 기술 스택
 
 - **언어**: Python, JavaScript, C#
-- **프레임워크**: Flask, Jquery
+- **프레임워크**: Flask, Jquery, Photon
 - **데이터베이스**: MySQL
 - **도구**: Git, Docker, Unity
 
