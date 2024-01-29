@@ -31,7 +31,3 @@
 4. [**경기 콘텐츠 창의학교 경진대회 최우수상(부천시장상)**](https://gm-h.goebc.kr/gm-h/na/ntt/selectNttInfo.do?mi=6609&bbsId=3638&nttSn=311490) - 경기콘텐츠진흥원, 2022
    - '메타포'팀 팀장
    - 메타버스 온라인 수업 플렛폼 '메타클래스' 프로젝트 기획 및 개발.
-
-### 📊 GitHub 통계
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimRua&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
