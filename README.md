@@ -18,7 +18,7 @@
 
 - **언어**: Python, Javascript, C#
 - **프레임워크**: Flask, Jquery, Photon
-- **도구**: Git, Unity, MS Azure
+- **그 외**: Git, Unity, MS Azure
 
 ### 🎖 자격증
 
