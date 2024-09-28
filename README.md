@@ -55,4 +55,4 @@
 2. **CM 동아리 홈페이지** - 대내외 홍보용 동아리 홈페이지, 2021 ~ 2022
 3. **메타클래스** - 메타버스 온라인 수업 플랫폼(대회 출품작), 2022
 4. **ChatWIKI** - AOAI 활용 우리금융그룹 대직원 업무효율화 툴, 2023 ~
-5. [**Club HR**](https://club-hr-hnhzegg8bjb8affx.koreacentral-01.azurewebsites.net) - 동아리 멤버 관리 시스템
+5. [**Club HR**](https://club-hr-hnhzegg8bjb8affx.koreacentral-01.azurewebsites.net) - 동아리 멤버 관리 서비스, 2024
