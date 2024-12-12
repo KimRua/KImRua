@@ -16,9 +16,9 @@
 
 ### 🛠 기술 스택
 
-- **언어**: Python, Javascript, C#
-- **프레임워크**: Flask, Jquery, Photon
-- **그 외**: Git, Unity, MS Azure
+- **언어**: Python, Java, Javascript, C#
+- **프레임워크**: Flask, Spring, Jquery, Photon
+- **그 외**: Unity, Azure, AWS, Docker
 
 ### 🎖 자격증
 
