@@ -18,7 +18,7 @@
 
 - **언어**: Python, Java, Javascript, C#
 - **프레임워크**: Flask, Spring, Jquery, Photon
-- **그 외**: Unity, Azure, AWS, Docker
+- **그 외**: Unity, Azure, AWS, Docker, Blockchain(DID)
 
 ### 🎖 자격증
 
