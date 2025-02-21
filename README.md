@@ -1,8 +1,7 @@
 안녕하세요. 김겸입니다.
 
 현재 [우리은행](https://www.wooribank.com/) 디지털금융 직군에서 근무 중이며,  
-연락처는 rua.kim.04@gmail.com / rua.kim.04@wooribank.com 입니다.  
-7년간 학생 축구선수로 활동한 이력이 있습니다.
+연락처는 rua.kim.04@gmail.com / rua.kim.04@wooribank.com 입니다. 
 
 ---
 
