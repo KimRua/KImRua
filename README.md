@@ -54,3 +54,4 @@
 3. 메타클래스 (메타버스 온라인 수업 플랫폼, 2022)
 4. ChatWIKI (AOAI 활용 우리금융그룹 대직원 업무효율화 툴, 2023 ~ 2025)
 5. [Club HR](https://club-hr-hnhzegg8bjb8affx.koreacentral-01.azurewebsites.net) (동아리 멤버 관리 서비스, 2024)
+6. XRPOTAL (XRP 기반 블로그 NFT 플랫폼, 2025 ~ )
