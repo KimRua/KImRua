@@ -1,3 +1,6 @@
+![Business Card](business-card.svg)
+
+
 안녕하세요. 김겸입니다.
 
 현재 [우리은행](https://www.wooribank.com/) 디지털금융 직군에서 근무 중이며,  
