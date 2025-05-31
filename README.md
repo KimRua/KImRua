@@ -1,11 +1,4 @@
 ![Business Card](business-card.svg)
-
-
-안녕하세요. 김겸입니다.
-
-현재 [우리은행](https://www.wooribank.com/) 디지털금융 직군에서 근무 중이며,  
-연락처는 rua.kim.04@gmail.com / rua.kim.04@wooribank.com 입니다. 
-
 ---
 
 ### 경력
@@ -19,12 +12,8 @@
 
 ### 기술 스택
 - 언어: Python, Java, Javascript, C#
-- 프레임워크: Flask, Spring, jQuery, Photon
-- 기타: Unity, Azure, AWS, Docker, Blockchain(DID)
-
-### 자격증
-- 생명/손해/제3 보험대리점 (보험연수원, 2023)
-- COS Pro 1급 (코딩전문가자격시험) (㈜와이비엠, 2023)
+- 프레임워크: Flask, FastAPI, Spring, jQuery, Photon
+- 기타: CICD(Git, SVN, Jenkins, Docker, K8S), Unity, Azure, AWS, Blockchain(DID)
 
 ### 수상 경력
 1. [Hello New() World 해커톤 대회 대상 (신세계아이엔씨상)](http://hellonewworld.co.kr/bbs/board.php?bo_table=31&wr_id=8) - 신세계아이엔씨, 2021  
@@ -57,4 +46,7 @@
 3. 메타클래스 (메타버스 온라인 수업 플랫폼, 2022)
 4. ChatWIKI (AOAI 활용 우리금융그룹 대직원 업무효율화 툴, 2023 ~ 2025)
 5. [Club HR](https://club-hr-hnhzegg8bjb8affx.koreacentral-01.azurewebsites.net) (동아리 멤버 관리 서비스, 2024)
-6. XRPOTAL (XRP 기반 블로그 NFT 플랫폼, 2025 ~ )
+6. 행정안전부 모바일 신분증 (EOS 기반 DID 플랫폼, 2024 ~)
+7. 금융결제원 금융분산ID (EOS 기반 DID 플랫폼, 2024 ~)
+8. 우리은행 자격증명 (DID 플랫폼, 2024 ~)
+9. XRPOTAL (XRP 기반 블로그 NFT 플랫폼, 2025 ~ )
