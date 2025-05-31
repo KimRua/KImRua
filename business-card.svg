@@ -1,48 +1,32 @@
-<!-- business-card.svg / 400×200 px -->
-<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- 배경 그라디언트 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- business-card.svg / 400 × 200 px -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="400" height="200" viewBox="0 0 400 200"
+     role="img" aria-label="RUA KIM business card">
+  <title>Business Card – RUA KIM</title>
+
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%"  stop-color="#0d47a1"/>
+      <stop offset="0%"   stop-color="#0d47a1"/>
       <stop offset="100%" stop-color="#1976d2"/>
     </linearGradient>
   </defs>
   <rect width="400" height="200" rx="16" fill="url(#bg)"/>
 
-  <!-- 이름 -->
-  <text x="40" y="60"
-        fill="#ffffff"
-        font-size="28"
-        font-family="Segoe UI, Noto Sans KR, sans-serif"
-        font-weight="700">
-    RUA&nbsp;KIM
+  <text x="40" y="60" fill="#fff" font-size="28"
+        font-family="Segoe UI,Noto Sans KR,sans-serif" font-weight="700">
+    RUA KIM
   </text>
 
-  <!-- 직함 -->
-  <text x="40" y="90"
-        fill="#bbdefb"
-        font-size="16"
-        font-family="Segoe UI, Noto Sans KR, sans-serif">
-    Blockchain&nbsp;/ FinTech&nbsp;Engineer
+  <text x="40" y="90" fill="#bbdefb" font-size="16"
+        font-family="Segoe UI,Noto Sans KR,sans-serif">
+    Blockchain / FinTech Engineer
   </text>
 
-  <!-- 연락처 -->
-  <text x="40" y="125"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Segoe UI, Noto Sans KR, sans-serif">
-    📧&nbsp;rua.kim@example.com
-  </text>
-  <text x="40" y="145"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Segoe UI, Noto Sans KR, sans-serif">
-    📞&nbsp;+82-10-1234-5678
-  </text>
-  <text x="40" y="165"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Segoe UI, Noto Sans KR, sans-serif">
-    🌐&nbsp;github.com/ruakim
-  </text>
+  <g fill="#fff" font-size="14" font-family="Segoe UI,Noto Sans KR,sans-serif">
+    <text x="40" y="125">📧 rua.kim@example.com</text>
+    <text x="40" y="145">📞 +82-10-1234-5678</text>
+    <text x="40" y="165">🌐 github.com/ruakim</text>
+  </g>
 </svg>
+
