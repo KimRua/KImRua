@@ -1,5 +1,9 @@
-![Business Card](business-card.svg)
----
+<p align="center">
+  <!-- 필요하면 width 속성으로 크기 조절 -->
+  <img src="business-card.svg" width="440" alt="Business Card">
+</p>
+
+
 
 ### 경력
 - 우리은행 디지털전략그룹 DI추진본부 혁신기술플랫폼부(舊 혁신기술사업부) 혁신기술기획팀 / 혁신기술개발팀 (2023 ~ 2025)  
