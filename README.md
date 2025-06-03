@@ -17,7 +17,7 @@
 ### 기술 스택
 - 언어: Python, Java, Javascript, C#
 - 프레임워크: Flask, FastAPI, Spring, jQuery, Photon
-- 기타: CICD(Git, SVN, Jenkins, Docker, K8S), Unity, Azure, AWS, Blockchain(DID)
+- 기타: CICD(Git, SVN, Jenkins, Docker, K8S, Argo), Unity, Azure, AWS, Blockchain(DID)
 
 ### 수상 경력
 1. [Hello New() World 해커톤 대회 대상 (신세계아이엔씨상)](http://hellonewworld.co.kr/bbs/board.php?bo_table=31&wr_id=8) - 신세계아이엔씨, 2021  
