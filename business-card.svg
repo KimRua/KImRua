@@ -18,27 +18,27 @@
   <text x="40" y="58" fill="#fff"
         font-family="Segoe UI, Noto Sans KR, sans-serif"
         font-size="32" font-weight="700">
-    김겸
+    Kim Kyeom
   </text>
 
   <!-- 직함 -->
   <text x="40" y="94" fill="#bbdefb"
         font-family="Segoe UI, Noto Sans KR, sans-serif"
         font-size="18">
-    Blockchain · FinTech Backend Engineer
+    MobileID Product Manager
   </text>
 
   <!-- 소속 -->
   <g fill="#e3f2fd" font-size="14"
      font-family="Segoe UI, Noto Sans KR, sans-serif">
-    <text x="40" y="122">우리은행 인증사업플랫폼부</text>
-    <text x="40" y="142">광운대학교 De-Butler · BlackCat</text>
+    <text x="40" y="122">WOORI BANK</text>
+    <text x="40" y="142">Certification Business Platform Department</text>
   </g>
 
   <!-- 연락처 -->
   <g fill="#fff" font-size="14"
      font-family="Segoe UI, Noto Sans KR, sans-serif">
-    <text x="40" y="174">✉️ rua.kim.04@wooribank.com</text>
+    <text x="40" y="174">✉️ rua@wooribank.com</text>
     <text x="40" y="194">📧 rua.kim.04@gmail.com</text>
   </g>
 
